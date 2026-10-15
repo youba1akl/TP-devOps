@@ -3,14 +3,14 @@ function hello(name){
 console.log("hello"+ name);
 }
 
-hello("youba");
+hello("aklil");
 
 
 function ajouter(a, b){
 return a + b;
 }
 
-console.log(ajouter(3, 2);
+console.log(ajouter(4, 6);
 
 module.export = { ajouter, hello };
 
